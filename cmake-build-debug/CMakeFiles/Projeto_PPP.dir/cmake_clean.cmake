@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Projeto_PPP.dir/funcoes.c.o"
+  "CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o"
+  "CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o"
+  "CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o"
   "CMakeFiles/Projeto_PPP.dir/main.c.o"
   "Projeto_PPP.exe"
   "Projeto_PPP.pdb"

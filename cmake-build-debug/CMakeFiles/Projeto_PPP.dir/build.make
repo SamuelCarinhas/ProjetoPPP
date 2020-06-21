@@ -70,17 +70,77 @@ CMakeFiles/Projeto_PPP.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Projeto_PPP.dir/main.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/main.c -o CMakeFiles/Projeto_PPP.dir/main.c.s
 
+CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o: CMakeFiles/Projeto_PPP.dir/flags.make
+CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o: ../lista_despesas.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o   -c /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_despesas.c
+
+CMakeFiles/Projeto_PPP.dir/lista_despesas.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Projeto_PPP.dir/lista_despesas.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_despesas.c > CMakeFiles/Projeto_PPP.dir/lista_despesas.c.i
+
+CMakeFiles/Projeto_PPP.dir/lista_despesas.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Projeto_PPP.dir/lista_despesas.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_despesas.c -o CMakeFiles/Projeto_PPP.dir/lista_despesas.c.s
+
+CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o: CMakeFiles/Projeto_PPP.dir/flags.make
+CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o: ../lista_orcamentos.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o   -c /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_orcamentos.c
+
+CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_orcamentos.c > CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.i
+
+CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_orcamentos.c -o CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.s
+
+CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o: CMakeFiles/Projeto_PPP.dir/flags.make
+CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o: ../lista_gastos.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o   -c /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_gastos.c
+
+CMakeFiles/Projeto_PPP.dir/lista_gastos.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Projeto_PPP.dir/lista_gastos.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_gastos.c > CMakeFiles/Projeto_PPP.dir/lista_gastos.c.i
+
+CMakeFiles/Projeto_PPP.dir/lista_gastos.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Projeto_PPP.dir/lista_gastos.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_gastos.c -o CMakeFiles/Projeto_PPP.dir/lista_gastos.c.s
+
+CMakeFiles/Projeto_PPP.dir/funcoes.c.o: CMakeFiles/Projeto_PPP.dir/flags.make
+CMakeFiles/Projeto_PPP.dir/funcoes.c.o: ../funcoes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Projeto_PPP.dir/funcoes.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Projeto_PPP.dir/funcoes.c.o   -c /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/funcoes.c
+
+CMakeFiles/Projeto_PPP.dir/funcoes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Projeto_PPP.dir/funcoes.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/funcoes.c > CMakeFiles/Projeto_PPP.dir/funcoes.c.i
+
+CMakeFiles/Projeto_PPP.dir/funcoes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Projeto_PPP.dir/funcoes.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/funcoes.c -o CMakeFiles/Projeto_PPP.dir/funcoes.c.s
+
 # Object files for target Projeto_PPP
 Projeto_PPP_OBJECTS = \
-"CMakeFiles/Projeto_PPP.dir/main.c.o"
+"CMakeFiles/Projeto_PPP.dir/main.c.o" \
+"CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o" \
+"CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o" \
+"CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o" \
+"CMakeFiles/Projeto_PPP.dir/funcoes.c.o"
 
 # External object files for target Projeto_PPP
 Projeto_PPP_EXTERNAL_OBJECTS =
 
 Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/main.c.o
+Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o
+Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o
+Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o
+Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/funcoes.c.o
 Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/build.make
 Projeto_PPP.exe: CMakeFiles/Projeto_PPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Projeto_PPP.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable Projeto_PPP.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Projeto_PPP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -123,6 +123,114 @@ Projeto_PPP/fast:
 	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/build
 .PHONY : Projeto_PPP/fast
 
+funcoes.o: funcoes.c.o
+
+.PHONY : funcoes.o
+
+# target to build an object file
+funcoes.c.o:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/funcoes.c.o
+.PHONY : funcoes.c.o
+
+funcoes.i: funcoes.c.i
+
+.PHONY : funcoes.i
+
+# target to preprocess a source file
+funcoes.c.i:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/funcoes.c.i
+.PHONY : funcoes.c.i
+
+funcoes.s: funcoes.c.s
+
+.PHONY : funcoes.s
+
+# target to generate assembly for a file
+funcoes.c.s:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/funcoes.c.s
+.PHONY : funcoes.c.s
+
+lista_despesas.o: lista_despesas.c.o
+
+.PHONY : lista_despesas.o
+
+# target to build an object file
+lista_despesas.c.o:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o
+.PHONY : lista_despesas.c.o
+
+lista_despesas.i: lista_despesas.c.i
+
+.PHONY : lista_despesas.i
+
+# target to preprocess a source file
+lista_despesas.c.i:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_despesas.c.i
+.PHONY : lista_despesas.c.i
+
+lista_despesas.s: lista_despesas.c.s
+
+.PHONY : lista_despesas.s
+
+# target to generate assembly for a file
+lista_despesas.c.s:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_despesas.c.s
+.PHONY : lista_despesas.c.s
+
+lista_gastos.o: lista_gastos.c.o
+
+.PHONY : lista_gastos.o
+
+# target to build an object file
+lista_gastos.c.o:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o
+.PHONY : lista_gastos.c.o
+
+lista_gastos.i: lista_gastos.c.i
+
+.PHONY : lista_gastos.i
+
+# target to preprocess a source file
+lista_gastos.c.i:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_gastos.c.i
+.PHONY : lista_gastos.c.i
+
+lista_gastos.s: lista_gastos.c.s
+
+.PHONY : lista_gastos.s
+
+# target to generate assembly for a file
+lista_gastos.c.s:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_gastos.c.s
+.PHONY : lista_gastos.c.s
+
+lista_orcamentos.o: lista_orcamentos.c.o
+
+.PHONY : lista_orcamentos.o
+
+# target to build an object file
+lista_orcamentos.c.o:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o
+.PHONY : lista_orcamentos.c.o
+
+lista_orcamentos.i: lista_orcamentos.c.i
+
+.PHONY : lista_orcamentos.i
+
+# target to preprocess a source file
+lista_orcamentos.c.i:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.i
+.PHONY : lista_orcamentos.c.i
+
+lista_orcamentos.s: lista_orcamentos.c.s
+
+.PHONY : lista_orcamentos.s
+
+# target to generate assembly for a file
+lista_orcamentos.c.s:
+	$(MAKE) -f CMakeFiles/Projeto_PPP.dir/build.make CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.s
+.PHONY : lista_orcamentos.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Projeto_PPP"
 	@echo "... edit_cache"
+	@echo "... funcoes.o"
+	@echo "... funcoes.i"
+	@echo "... funcoes.s"
+	@echo "... lista_despesas.o"
+	@echo "... lista_despesas.i"
+	@echo "... lista_despesas.s"
+	@echo "... lista_gastos.o"
+	@echo "... lista_gastos.i"
+	@echo "... lista_gastos.s"
+	@echo "... lista_orcamentos.o"
+	@echo "... lista_orcamentos.i"
+	@echo "... lista_orcamentos.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

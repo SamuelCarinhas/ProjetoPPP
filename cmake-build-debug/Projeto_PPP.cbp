@@ -74,6 +74,33 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/bibliotecas.h">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/funcoes.c">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/funcoes.h">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_despesas.c">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_despesas.h">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_gastos.c">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_gastos.h">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_orcamentos.c">
+			<Option target="Projeto_PPP"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_orcamentos.h">
+			<Option target="Projeto_PPP"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/main.c">
 			<Option target="Projeto_PPP"/>
 		</Unit>

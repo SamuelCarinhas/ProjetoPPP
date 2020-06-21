@@ -1,0 +1,12 @@
+#ifndef PROJETO_PPP_CONSTANTES_H
+#define PROJETO_PPP_CONSTANTES_H
+
+#endif
+
+#define MAX_STRING 100
+
+#define SUCESSO 1
+
+#define ERRO_GERAL -100
+#define ERRO_ESPACO -101
+#define ERRO_NAO_ENCONTRADO -102

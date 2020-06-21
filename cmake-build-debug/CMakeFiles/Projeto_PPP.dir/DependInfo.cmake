@@ -4,6 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/funcoes.c" "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles/Projeto_PPP.dir/funcoes.c.o"
+  "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_despesas.c" "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles/Projeto_PPP.dir/lista_despesas.c.o"
+  "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_gastos.c" "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles/Projeto_PPP.dir/lista_gastos.c.o"
+  "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/lista_orcamentos.c" "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles/Projeto_PPP.dir/lista_orcamentos.c.o"
   "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/main.c" "/cygdrive/c/Users/Samuel/CLionProjects/Projeto_PPP/cmake-build-debug/CMakeFiles/Projeto_PPP.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
